@@ -1,0 +1,3 @@
+argparse==1.2.1
+-e svn+http://pyhunspell.googlecode.com/svn/trunk@6#egg=hunspell-0.1-py2.7-dev_r6
+wsgiref==0.1.2
