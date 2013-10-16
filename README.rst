@@ -8,7 +8,7 @@
 - установить зависимости: hunspell libhunspell libhunspell-dev (для libhunspell требуется версия 1.2);
 - установить необходимые словари, например hunspell-ru для русского;
 - проверить правильность путей к .dic и .aff файлам словарей в config.py;
-- запустить pip -r requirements.txt для установки питоновских модулей.
+- запустить pip install -r requirements.txt для установки питоновских модулей.
 
 Пример использования:
     python stemmer.py токаря
